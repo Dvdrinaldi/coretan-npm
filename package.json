@@ -1,0 +1,19 @@
+{
+  "name": "coretan-npm",
+  "version": "1.0.0",
+  "description": "coret-coret",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "hello": "echo \"Hello Word!\"",
+    "server": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.4"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
